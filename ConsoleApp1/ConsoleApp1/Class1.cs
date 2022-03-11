@@ -19,7 +19,7 @@ namespace ConsoleApp1
 
         public void SomeMethod()
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World, modified from main!");
         }
     }
 }
